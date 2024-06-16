@@ -68,5 +68,5 @@ I'm currently working to better understand how to completely use Javascript and 
 
 ## Author
 
-- Website - [Ryan King](https://www.ryanking-portfolio.netlify.app)
+- Website - [Ryan King](https://ryanking-portfolio.netlify.app/)
 - Frontend Mentor - [@MsftKing](https://www.frontendmentor.io/profile/MsftKing)
