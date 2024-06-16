@@ -1,0 +1,39 @@
+:root {
+    --background-color: var(hsl(147, 86%, 85%));
+    --button-color: var(hsl( hsl(169, 82%, 27%))); 
+}
+
+* {
+    font-family: 'Karla', sans-serif;
+}
+
+html{
+    background-color: hsl(147, 86%, 85%);
+}
+
+div.contactForm {
+    
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    max-height: 800px;
+    max-width: 320px;
+}
+
+div.contactForm {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+button {
+    margin: 10px;
+    padding: 0;
+    border: 0;
+    line-height: 2;
+    min-width: 320px;
+    font-size: 1rem;
+    color: #fff;
+    text-align: center;
+    background-color: hsl(169, 82%, 27%);
+}
